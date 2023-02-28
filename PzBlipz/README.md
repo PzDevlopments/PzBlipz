@@ -18,7 +18,7 @@ easy configuration e.g.
 
 
 Made by Pz Developments
-
+https://github.com/PzDevlopments
 
 
 you can find blips here -- https://docs.fivem.net/docs/game-references/blips/
