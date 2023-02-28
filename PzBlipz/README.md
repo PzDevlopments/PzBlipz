@@ -12,7 +12,7 @@
 - QBCore
 
 ## Configuration
-### You will find everything you need in 'blips'
+### You will find everything you need in 'blips.lua'
 easy configuration e.g.
 { title = "Island Mansion", colour = 30, id = 40, x = 5009.41, y = -5749.76, z = 32.85 },
 
